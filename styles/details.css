@@ -1,0 +1,25 @@
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.detail--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    padding: 1rem;
+    border: 5px dotted rgb(69, 15, 155);
+}
+.venueandbands {
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px dotted rgb(69, 15, 155);
+}
+.Bands {
+    font-size: 1rem;
+    border: 5px dotted rgb(5, 83, 31);
+}
+.Venues {
+    font-size: 1rem;
+    border: 5px dotted rgb(5, 83, 31);
+}
